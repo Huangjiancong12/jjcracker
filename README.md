@@ -1,3 +1,4 @@
+This Application is a Monash Assignment and built by a team. I mainly focus on the product and category part.
 
 This Application is written in CakePHP and requires a php version equivalent or greater than 7.4.
 
